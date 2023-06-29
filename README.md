@@ -1,4 +1,5 @@
 ## Welcome to LightRiders
+
 To understand the platform please read this:
 LightRiders is a platform for bikers or anyone interested in sharing their experience in 'biking' world.
 There's a lot that happens  to our riders out there and we as the community want to make it easy for riders to share their experience on this platform.
@@ -14,7 +15,13 @@ Discussions are open!!
 
 ## What we are trying to Achieve:
 
-## What we are using
+Our checklist of what we have done and what we are trying to achieve:
+
+- [ ] Adding Pages and Content
+- [x] Add MDX
+- [x] Dark mode
+- [x] Add Signup/Login
+
 
 ## Features
 These are the features we are incorporating:
@@ -34,6 +41,6 @@ These are the features we are incorporating:
 - 👷 Github Actions — Lint your code on PR
 - 🚘 Automatic Branch and Issue Autolink — Branch will be automatically created on issue **assign**, and auto-linked on PR
 - 🔥 Snippets — A collection of useful snippets
-- 👀 Default Open Graph — Awesome open graph generated using [og]([[https://github.com/theodorusclarence/og](https://github.com/dennis2018/OpenGraph)](https://github.com/dennis2018/OpenGraph)), fork it, and deploy!
+- 👀 Default Open Graph — Awesome open graph generated using [OpenGraph]([[https://github.com/theodorusclarence/og](https://github.com/dennis2018/OpenGraph)](https://github.com/dennis2018/OpenGraph)), fork it, and deploy!
 - 🗺 Site Map — Automatically generate sitemap.xml
 - 📦 Expansion Pack — Easily install common libraries, additional components, and configs
